@@ -1,4 +1,4 @@
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/RNbJLQf/me.jpg" alt="me" border="0" align="right" width="250px" style="margin-top:-20px"></a>
+<a href="https://ibb.co/wCzddkN"><img src="https://i.ibb.co/Gk5dd6v/My-project-1.png" alt="My-project-1" border="0" align="right" width="250px" style="margin-top:-20px"></a>
 
 ## Olá, me chamo Inessa Rebeca ! 
 <br />
@@ -11,11 +11,11 @@ Formada em Ciência da Computação, pós graduanda em Engenharia de Software e 
 
 ##
 
-#### :computer: Ferramentas e Tecnologias	 
+#### :computer: Ferramentas e Tecnologias	
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="30" height="30" />     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="26" height="26"/>
 
 <br />
-
 
 #### :books: Estudando
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />
